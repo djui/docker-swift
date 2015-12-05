@@ -10,6 +10,10 @@ A Docker image that allows using Apple's
 
     $ docker build -t swift .
 
+Or fetch:
+
+    $ docker pull djui/swift
+
 
 ## Usage
 
